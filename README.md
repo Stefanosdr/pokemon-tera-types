@@ -1,5 +1,9 @@
 # pokemon-tera-types
 Contains a list of the best defence wise, tera types for each pokemon in the Scarlet/Violet games.
+
+The way the rank is calculated is by adding 1 point for each weakness that is mitigated with the new Tera type.
+On top of that, 1 extra point is added on each weakness that is now resisted and an extra 2 if the pokemon is now immune to it.
+
 I have included a json file with each tera type per pokemon.
 
 Below is the related table.
